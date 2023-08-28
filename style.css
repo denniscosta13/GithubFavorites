@@ -189,4 +189,6 @@ td .remove {
   border: none;
   color: #f75967;
   font-weight: 700;
+
+  cursor: pointer;
 }
